@@ -11,7 +11,11 @@ https://data.bts.gov/Research-and-Statistics/Monthly-Transportation-Statistics/c
 3. Dependent Variable - Transportation Employment - Air Transportation
 4. I have used fitlm function in MATLAB to fit a Linear Regression Model and further calculated the correlation coefficient using the MATLAB function corrcoef.
 
-### Results:
+### Result:
+
+![](https://github.com/Abhishek0697/Machine-Learning-in-MATLAB/blob/main/Case%20Study%20-%20Linear%20Regression%20%20in%20Transportation%20Domain/data/Scatterplot%20of%20Linear%20Regression.png)
+
+
 1. The slope of the predicted Linear Regression Line is positive which is in line with our hypothesis that increase in one variable will lead to increase in other variable.
 2. The Correlation Coefficient ρ comes out to be 0.3815.
 3. Interpretation: The Correlation Coefficient suggests a positive correlation between the two variables.
